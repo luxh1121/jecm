@@ -1,1 +1,1 @@
-# jecm Java Based Enterprise Collaberate Management
+# jecm Java Based Enterprise Collaborate Management
